@@ -1,4 +1,8 @@
 # Twit_Predict
+
+* Andrea Christians
+* Navkaran Kumar
+
 <h3> Introduction </h3>
   Politics is a complex field and the success of a campaign is driven by widespread public approval. These campaigns can be a costly process as it involves telemarketing, travelling, pep rallies etc. As a result of this, determining a target population is crucial and social media is a big source of data that can be harnessed to assess this. By combining sentiment analysis with social media (i.e. Twitter) this study investigates two political candidates i.e. Brian Gallant (Liberal Party) and Blaine Higgs (Progressive Conservative Party) for the upcoming New Brunswick General Election in September of 2018. Predictions will be calculated based on the sentiment of a user opinion. The results yield insight on their predicted success and it will allow those political groups to adapt their campaign strategy accordingly. Furthermore, the results will be categorized by location and thus a given candidate can be given forecasts based on a specific location; Fredericton and Moncton were chosen for this study. 
   
